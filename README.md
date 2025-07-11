@@ -1,2 +1,2 @@
 # CrowdStrike_TechSales_SDR_MockProject
-This is a mock SDR campaign designed for a cybersecurity SaaS product. It demonstrates my approach to outbound prospecting, personalization, and sales development strategy in the cybersecurity space.
+I am working on this mock SDR for CrowdStrike, a leading cybersecurity SaaS company. It showcases how I will approach to targeted prospecting, personalized outreach, and structured sales development strategy as a Tech Sales Professional if I were in the cybersecurity industry.
